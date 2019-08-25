@@ -9,6 +9,8 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ RestAPI dengan laravel
 - Interview
 - Vlogs
 - Python
+- Bahasa C
